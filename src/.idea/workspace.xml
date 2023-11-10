@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d5e4691-0ff7-4290-8d00-07d5d3ebae1e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/MatrixBck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/NKnights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/NQueen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/NQueens2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/Recurssion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/SudokuSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/SudokuSolverleetcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/BeautifulArrangement526.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/PathwithMaximumGold1219.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Permutations46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Permutations46List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/PredicttheWinner486.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Rough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/TargetSum494.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/ValidSudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/CLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/DLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/LL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/Leetcode/LinkedListCycle142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/Leetcode/SortList148.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/FirstLec/First_lec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/FirstLec/Innerclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/FirstLec/StaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/Inheritance/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/Inheritance/BoxWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/Inheritance/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/Singelton/Singelton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/Singelton/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/Bubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/Cyclic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/Insertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/MergeSortInPlace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/Selection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StacksQueueDeque/CircularQue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StacksQueueDeque/CustomQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StacksQueueDeque/CustomStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StacksQueueDeque/DynamicQue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StacksQueueDeque/DynamicStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StacksQueueDeque/InBuiltExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StacksQueueDeque/QueueMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StacksQueueDeque/StackException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StacksQueueDeque/StackMain.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2QsJbwvqjUMNUAC5F7ytn2lO8Mp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Anitya Sharma/IdeaProjects/FirstProj"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d5e4691-0ff7-4290-8d00-07d5d3ebae1e" name="Changes" comment="" />
+      <created>1686136430440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686136430440</updated>
+    </task>
+    <servers />
+  </component>
+</project>
